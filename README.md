@@ -1,0 +1,2 @@
+# pshail
+Openshift - Kubernetes Adapter
